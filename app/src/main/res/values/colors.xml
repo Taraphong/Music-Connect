@@ -1,0 +1,7 @@
+<resources>
+    <color name="mc_bg">#101418</color>
+    <color name="mc_panel">#1A2027</color>
+    <color name="mc_text">#F4F7FA</color>
+    <color name="mc_muted">#A9B3BD</color>
+    <color name="mc_accent">#22C55E</color>
+</resources>
